@@ -1,2 +1,3 @@
 # Object Oriented Programming
-Defining a class, it's behaviours and methods.
+
+Defining a class, its behaviours and methods.
