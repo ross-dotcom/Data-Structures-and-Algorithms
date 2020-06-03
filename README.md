@@ -5,3 +5,4 @@
 * queue.py: defining a class called Queue and demonstrating First In First Out (FIFO).
 * linked_list.py: linked list basics.
 * bfs.py: breadth first search.
+* bubble_sort.py: bubble sort how-to.
