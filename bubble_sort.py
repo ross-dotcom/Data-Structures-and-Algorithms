@@ -1,7 +1,7 @@
 """
     Bubble sort algorithm.
 """
-
+@profile
 def bubble_sort(arr):
     
     length = len(arr)-1
